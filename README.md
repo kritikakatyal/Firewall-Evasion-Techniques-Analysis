@@ -51,7 +51,6 @@ Perform the following scans and observe firewall responses:
  ├── 📜 installation.md # installation process and steps
  ├── 📜 scans.sh   # Bash script to automate scans
  ├── 📜 results.md    # Findings & analysis
- ├── 📁 reports    # Logs, screenshots, Wireshark captures
 ```
 
 ## How to Run
